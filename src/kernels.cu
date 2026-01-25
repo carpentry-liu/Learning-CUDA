@@ -20,7 +20,19 @@
 template <typename T>
 T trace(const std::vector<T>& h_input, size_t rows, size_t cols) {
   // TODO: Implement the trace function
-  return T(-1);
+  //CPU版本
+  {
+    T trace_sum = T(0);
+    const size_t min_dim = std::min(rows, cols);
+    for(size_t i = 0; i < min_dim; ++i)
+    {
+      trace_sum += h_input[i * cols + i];
+    }
+    return trace_sum;
+  }
+
+
+  // return T(-1);
 }
 
 /**
