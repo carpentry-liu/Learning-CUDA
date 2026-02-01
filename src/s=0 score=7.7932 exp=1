@@ -1,0 +1,1014 @@
+  s=0 score=7.7932 exp=1
+  s=1 score=-inf exp=0
+  s=2 score=-inf exp=0
+  s=3 score=-inf exp=0
+  s=4 score=-inf exp=0
+  s=5 score=-inf exp=0
+  s=6 score=-inf exp=0
+  s=7 score=-inf exp=0
+  out_v[0]=0.870605
+  out_v[1]=2.25781
+  out_v[2]=-8.36719
+  out_v[3]=-5.47656
+  out_v[4]=-0.833984
+  out_v[5]=6.9375
+  out_v[6]=-0.306152
+  out_v[7]=-1.42773
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=7.7932 exp=1
+  s=1 score=-inf exp=0
+  s=2 score=-inf exp=0
+  s=3 score=-inf exp=0
+  s=4 score=-inf exp=0
+  s=5 score=-inf exp=0
+  s=6 score=-inf exp=0
+  s=7 score=-inf exp=0
+  out_v[0]=0.870605
+  out_v[1]=2.25781
+  out_v[2]=-8.36719
+  out_v[3]=-5.47656
+  out_v[4]=-0.833984
+  out_v[5]=6.9375
+  out_v[6]=-0.306152
+  out_v[7]=-1.42773
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=7.7932 exp=1
+  s=1 score=-inf exp=0
+  s=2 score=-inf exp=0
+  s=3 score=-inf exp=0
+  s=4 score=-inf exp=0
+  s=5 score=-inf exp=0
+  s=6 score=-inf exp=0
+  s=7 score=-inf exp=0
+  out_v[0]=0.870605
+  out_v[1]=2.25781
+  out_v[2]=-8.36719
+  out_v[3]=-5.47656
+  out_v[4]=-0.833984
+  out_v[5]=6.9375
+  out_v[6]=-0.306152
+  out_v[7]=-1.42773
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=7.7932 exp=1
+  s=1 score=-inf exp=0
+  s=2 score=-inf exp=0
+  s=3 score=-inf exp=0
+  s=4 score=-inf exp=0
+  s=5 score=-inf exp=0
+  s=6 score=-inf exp=0
+  s=7 score=-inf exp=0
+  out_v[0]=0.870605
+  out_v[1]=2.25781
+  out_v[2]=-8.36719
+  out_v[3]=-5.47656
+  out_v[4]=-0.833984
+  out_v[5]=6.9375
+  out_v[6]=-0.306152
+  out_v[7]=-1.42773
+Test Case #11 (Attention)
+Data Type:      half
+Warm-up Iters:  1
+Profile Iters:  10
+Avg Time:       2.838254 ms
+Max Diff:       0.0000000
+Max Tolerance:  0.0000000
+Verification:   Passed
+============================================================
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6835 exp=1.4013e-45
+  s=1 score=28.6308 exp=1.54875e-11
+  s=2 score=28.2367 exp=1.04436e-11
+  s=3 score=53.5218 exp=1
+  s=4 score=32.9429 exp=1.15531e-09
+  s=5 score=-7.44852 exp=3.31853e-27
+  s=6 score=-23.7252 exp=2.83174e-34
+  s=7 score=7.95208 exp=1.61935e-20
+  out_v[0]=4.16632
+  out_v[1]=1.1003
+  out_v[2]=-2.64301
+  out_v[3]=8.08348
+  out_v[4]=1.10504
+  out_v[5]=2.0431
+  out_v[6]=-8.00112
+  out_v[7]=-0.139854
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6835 exp=1.4013e-45
+  s=1 score=28.6308 exp=1.54875e-11
+  s=2 score=28.2367 exp=1.04436e-11
+  s=3 score=53.5218 exp=1
+  s=4 score=32.9429 exp=1.15531e-09
+  s=5 score=-7.44852 exp=3.31853e-27
+  s=6 score=-23.7252 exp=2.83174e-34
+  s=7 score=7.95208 exp=1.61935e-20
+  out_v[0]=4.16632
+  out_v[1]=1.1003
+  out_v[2]=-2.64301
+  out_v[3]=8.08348
+  out_v[4]=1.10504
+  out_v[5]=2.0431
+  out_v[6]=-8.00112
+  out_v[7]=-0.139854
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6835 exp=1.4013e-45
+  s=1 score=28.6308 exp=1.54875e-11
+  s=2 score=28.2367 exp=1.04436e-11
+  s=3 score=53.5218 exp=1
+  s=4 score=32.9429 exp=1.15531e-09
+  s=5 score=-7.44852 exp=3.31853e-27
+  s=6 score=-23.7252 exp=2.83174e-34
+  s=7 score=7.95208 exp=1.61935e-20
+  out_v[0]=4.16632
+  out_v[1]=1.1003
+  out_v[2]=-2.64301
+  out_v[3]=8.08348
+  out_v[4]=1.10504
+  out_v[5]=2.0431
+  out_v[6]=-8.00112
+  out_v[7]=-0.139854
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6835 exp=1.4013e-45
+  s=1 score=28.6308 exp=1.54875e-11
+  s=2 score=28.2367 exp=1.04436e-11
+  s=3 score=53.5218 exp=1
+  s=4 score=32.9429 exp=1.15531e-09
+  s=5 score=-7.44852 exp=3.31853e-27
+  s=6 score=-23.7252 exp=2.83174e-34
+  s=7 score=7.95208 exp=1.61935e-20
+  out_v[0]=4.16632
+  out_v[1]=1.1003
+  out_v[2]=-2.64301
+  out_v[3]=8.08348
+  out_v[4]=1.10504
+  out_v[5]=2.0431
+  out_v[6]=-8.00112
+  out_v[7]=-0.139854
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6835 exp=1.4013e-45
+  s=1 score=28.6308 exp=1.54875e-11
+  s=2 score=28.2367 exp=1.04436e-11
+  s=3 score=53.5218 exp=1
+  s=4 score=32.9429 exp=1.15531e-09
+  s=5 score=-7.44852 exp=3.31853e-27
+  s=6 score=-23.7252 exp=2.83174e-34
+  s=7 score=7.95208 exp=1.61935e-20
+  out_v[0]=4.16632
+  out_v[1]=1.1003
+  out_v[2]=-2.64301
+  out_v[3]=8.08348
+  out_v[4]=1.10504
+  out_v[5]=2.0431
+  out_v[6]=-8.00112
+  out_v[7]=-0.139854
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6835 exp=1.4013e-45
+  s=1 score=28.6308 exp=1.54875e-11
+  s=2 score=28.2367 exp=1.04436e-11
+  s=3 score=53.5218 exp=1
+  s=4 score=32.9429 exp=1.15531e-09
+  s=5 score=-7.44852 exp=3.31853e-27
+  s=6 score=-23.7252 exp=2.83174e-34
+  s=7 score=7.95208 exp=1.61935e-20
+  out_v[0]=4.16632
+  out_v[1]=1.1003
+  out_v[2]=-2.64301
+  out_v[3]=8.08348
+  out_v[4]=1.10504
+  out_v[5]=2.0431
+  out_v[6]=-8.00112
+  out_v[7]=-0.139854
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6835 exp=1.4013e-45
+  s=1 score=28.6308 exp=1.54875e-11
+  s=2 score=28.2367 exp=1.04436e-11
+  s=3 score=53.5218 exp=1
+  s=4 score=32.9429 exp=1.15531e-09
+  s=5 score=-7.44852 exp=3.31853e-27
+  s=6 score=-23.7252 exp=2.83174e-34
+  s=7 score=7.95208 exp=1.61935e-20
+  out_v[0]=4.16632
+  out_v[1]=1.1003
+  out_v[2]=-2.64301
+  out_v[3]=8.08348
+  out_v[4]=1.10504
+  out_v[5]=2.0431
+  out_v[6]=-8.00112
+  out_v[7]=-0.139854
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6835 exp=1.4013e-45
+  s=1 score=28.6308 exp=1.54875e-11
+  s=2 score=28.2367 exp=1.04436e-11
+  s=3 score=53.5218 exp=1
+  s=4 score=32.9429 exp=1.15531e-09
+  s=5 score=-7.44852 exp=3.31853e-27
+  s=6 score=-23.7252 exp=2.83174e-34
+  s=7 score=7.95208 exp=1.61935e-20
+  out_v[0]=4.16632
+  out_v[1]=1.1003
+  out_v[2]=-2.64301
+  out_v[3]=8.08348
+  out_v[4]=1.10504
+  out_v[5]=2.0431
+  out_v[6]=-8.00112
+  out_v[7]=-0.139854
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6835 exp=1.4013e-45
+  s=1 score=28.6308 exp=1.54875e-11
+  s=2 score=28.2367 exp=1.04436e-11
+  s=3 score=53.5218 exp=1
+  s=4 score=32.9429 exp=1.15531e-09
+  s=5 score=-7.44852 exp=3.31853e-27
+  s=6 score=-23.7252 exp=2.83174e-34
+  s=7 score=7.95208 exp=1.61935e-20
+  out_v[0]=4.16632
+  out_v[1]=1.1003
+  out_v[2]=-2.64301
+  out_v[3]=8.08348
+  out_v[4]=1.10504
+  out_v[5]=2.0431
+  out_v[6]=-8.00112
+  out_v[7]=-0.139854
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6835 exp=1.4013e-45
+  s=1 score=28.6308 exp=1.54875e-11
+  s=2 score=28.2367 exp=1.04436e-11
+  s=3 score=53.5218 exp=1
+  s=4 score=32.9429 exp=1.15531e-09
+  s=5 score=-7.44852 exp=3.31853e-27
+  s=6 score=-23.7252 exp=2.83174e-34
+  s=7 score=7.95208 exp=1.61935e-20
+  out_v[0]=4.16632
+  out_v[1]=1.1003
+  out_v[2]=-2.64301
+  out_v[3]=8.08348
+  out_v[4]=1.10504
+  out_v[5]=2.0431
+  out_v[6]=-8.00112
+  out_v[7]=-0.139854
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6835 exp=1.4013e-45
+  s=1 score=28.6308 exp=1.54875e-11
+  s=2 score=28.2367 exp=1.04436e-11
+  s=3 score=53.5218 exp=1
+  s=4 score=32.9429 exp=1.15531e-09
+  s=5 score=-7.44852 exp=3.31853e-27
+  s=6 score=-23.7252 exp=2.83174e-34
+  s=7 score=7.95208 exp=1.61935e-20
+  out_v[0]=4.16632
+  out_v[1]=1.1003
+  out_v[2]=-2.64301
+  out_v[3]=8.08348
+  out_v[4]=1.10504
+  out_v[5]=2.0431
+  out_v[6]=-8.00112
+  out_v[7]=-0.139854
+Test Case #12 (Attention)
+Data Type:      float
+Warm-up Iters:  1
+Profile Iters:  10
+Avg Time:       10.167681 ms
+Max Diff:       0.0000109
+Max Tolerance:  0.0000011
+Verification:   Failed
+============================================================
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6767 exp=1.4013e-45
+  s=1 score=28.618 exp=1.54596e-11
+  s=2 score=28.2339 exp=1.05292e-11
+  s=3 score=53.5107 exp=1
+  s=4 score=32.9392 exp=1.16378e-09
+  s=5 score=-7.44308 exp=3.37354e-27
+  s=6 score=-23.7388 exp=2.82458e-34
+  s=7 score=7.95256 exp=1.63805e-20
+  out_v[0]=4.16781
+  out_v[1]=1.10078
+  out_v[2]=-2.64253
+  out_v[3]=8.08558
+  out_v[4]=1.10524
+  out_v[5]=2.04269
+  out_v[6]=-7.99975
+  out_v[7]=-0.13987
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6767 exp=1.4013e-45
+  s=1 score=28.618 exp=1.54596e-11
+  s=2 score=28.2339 exp=1.05292e-11
+  s=3 score=53.5107 exp=1
+  s=4 score=32.9392 exp=1.16378e-09
+  s=5 score=-7.44308 exp=3.37354e-27
+  s=6 score=-23.7388 exp=2.82458e-34
+  s=7 score=7.95256 exp=1.63805e-20
+  out_v[0]=4.16781
+  out_v[1]=1.10078
+  out_v[2]=-2.64253
+  out_v[3]=8.08558
+  out_v[4]=1.10524
+  out_v[5]=2.04269
+  out_v[6]=-7.99975
+  out_v[7]=-0.13987
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6767 exp=1.4013e-45
+  s=1 score=28.618 exp=1.54596e-11
+  s=2 score=28.2339 exp=1.05292e-11
+  s=3 score=53.5107 exp=1
+  s=4 score=32.9392 exp=1.16378e-09
+  s=5 score=-7.44308 exp=3.37354e-27
+  s=6 score=-23.7388 exp=2.82458e-34
+  s=7 score=7.95256 exp=1.63805e-20
+  out_v[0]=4.16781
+  out_v[1]=1.10078
+  out_v[2]=-2.64253
+  out_v[3]=8.08558
+  out_v[4]=1.10524
+  out_v[5]=2.04269
+  out_v[6]=-7.99975
+  out_v[7]=-0.13987
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6767 exp=1.4013e-45
+  s=1 score=28.618 exp=1.54596e-11
+  s=2 score=28.2339 exp=1.05292e-11
+  s=3 score=53.5107 exp=1
+  s=4 score=32.9392 exp=1.16378e-09
+  s=5 score=-7.44308 exp=3.37354e-27
+  s=6 score=-23.7388 exp=2.82458e-34
+  s=7 score=7.95256 exp=1.63805e-20
+  out_v[0]=4.16781
+  out_v[1]=1.10078
+  out_v[2]=-2.64253
+  out_v[3]=8.08558
+  out_v[4]=1.10524
+  out_v[5]=2.04269
+  out_v[6]=-7.99975
+  out_v[7]=-0.13987
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6767 exp=1.4013e-45
+  s=1 score=28.618 exp=1.54596e-11
+  s=2 score=28.2339 exp=1.05292e-11
+  s=3 score=53.5107 exp=1
+  s=4 score=32.9392 exp=1.16378e-09
+  s=5 score=-7.44308 exp=3.37354e-27
+  s=6 score=-23.7388 exp=2.82458e-34
+  s=7 score=7.95256 exp=1.63805e-20
+  out_v[0]=4.16781
+  out_v[1]=1.10078
+  out_v[2]=-2.64253
+  out_v[3]=8.08558
+  out_v[4]=1.10524
+  out_v[5]=2.04269
+  out_v[6]=-7.99975
+  out_v[7]=-0.13987
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6767 exp=1.4013e-45
+  s=1 score=28.618 exp=1.54596e-11
+  s=2 score=28.2339 exp=1.05292e-11
+  s=3 score=53.5107 exp=1
+  s=4 score=32.9392 exp=1.16378e-09
+  s=5 score=-7.44308 exp=3.37354e-27
+  s=6 score=-23.7388 exp=2.82458e-34
+  s=7 score=7.95256 exp=1.63805e-20
+  out_v[0]=4.16781
+  out_v[1]=1.10078
+  out_v[2]=-2.64253
+  out_v[3]=8.08558
+  out_v[4]=1.10524
+  out_v[5]=2.04269
+  out_v[6]=-7.99975
+  out_v[7]=-0.13987
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6767 exp=1.4013e-45
+  s=1 score=28.618 exp=1.54596e-11
+  s=2 score=28.2339 exp=1.05292e-11
+  s=3 score=53.5107 exp=1
+  s=4 score=32.9392 exp=1.16378e-09
+  s=5 score=-7.44308 exp=3.37354e-27
+  s=6 score=-23.7388 exp=2.82458e-34
+  s=7 score=7.95256 exp=1.63805e-20
+  out_v[0]=4.16781
+  out_v[1]=1.10078
+  out_v[2]=-2.64253
+  out_v[3]=8.08558
+  out_v[4]=1.10524
+  out_v[5]=2.04269
+  out_v[6]=-7.99975
+  out_v[7]=-0.13987
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6767 exp=1.4013e-45
+  s=1 score=28.618 exp=1.54596e-11
+  s=2 score=28.2339 exp=1.05292e-11
+  s=3 score=53.5107 exp=1
+  s=4 score=32.9392 exp=1.16378e-09
+  s=5 score=-7.44308 exp=3.37354e-27
+  s=6 score=-23.7388 exp=2.82458e-34
+  s=7 score=7.95256 exp=1.63805e-20
+  out_v[0]=4.16781
+  out_v[1]=1.10078
+  out_v[2]=-2.64253
+  out_v[3]=8.08558
+  out_v[4]=1.10524
+  out_v[5]=2.04269
+  out_v[6]=-7.99975
+  out_v[7]=-0.13987
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6767 exp=1.4013e-45
+  s=1 score=28.618 exp=1.54596e-11
+  s=2 score=28.2339 exp=1.05292e-11
+  s=3 score=53.5107 exp=1
+  s=4 score=32.9392 exp=1.16378e-09
+  s=5 score=-7.44308 exp=3.37354e-27
+  s=6 score=-23.7388 exp=2.82458e-34
+  s=7 score=7.95256 exp=1.63805e-20
+  out_v[0]=4.16781
+  out_v[1]=1.10078
+  out_v[2]=-2.64253
+  out_v[3]=8.08558
+  out_v[4]=1.10524
+  out_v[5]=2.04269
+  out_v[6]=-7.99975
+  out_v[7]=-0.13987
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6767 exp=1.4013e-45
+  s=1 score=28.618 exp=1.54596e-11
+  s=2 score=28.2339 exp=1.05292e-11
+  s=3 score=53.5107 exp=1
+  s=4 score=32.9392 exp=1.16378e-09
+  s=5 score=-7.44308 exp=3.37354e-27
+  s=6 score=-23.7388 exp=2.82458e-34
+  s=7 score=7.95256 exp=1.63805e-20
+  out_v[0]=4.16781
+  out_v[1]=1.10078
+  out_v[2]=-2.64253
+  out_v[3]=8.08558
+  out_v[4]=1.10524
+  out_v[5]=2.04269
+  out_v[6]=-7.99975
+  out_v[7]=-0.13987
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-49.6767 exp=1.4013e-45
+  s=1 score=28.618 exp=1.54596e-11
+  s=2 score=28.2339 exp=1.05292e-11
+  s=3 score=53.5107 exp=1
+  s=4 score=32.9392 exp=1.16378e-09
+  s=5 score=-7.44308 exp=3.37354e-27
+  s=6 score=-23.7388 exp=2.82458e-34
+  s=7 score=7.95256 exp=1.63805e-20
+  out_v[0]=4.16781
+  out_v[1]=1.10078
+  out_v[2]=-2.64253
+  out_v[3]=8.08558
+  out_v[4]=1.10524
+  out_v[5]=2.04269
+  out_v[6]=-7.99975
+  out_v[7]=-0.13987
+Test Case #12 (Attention)
+Data Type:      half
+Warm-up Iters:  1
+Profile Iters:  10
+Avg Time:       15.606724 ms
+Max Diff:       0.0039062
+Max Tolerance:  0.0410937
+Verification:   Passed
+============================================================
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8007 exp=7.00649e-45
+  s=1 score=24.688 exp=2.4957e-27
+  s=2 score=-21.7562 exp=0
+  s=3 score=4.69003 exp=5.15432e-36
+  s=4 score=69.6664 exp=8.53195e-08
+  s=5 score=28.2722 exp=8.99009e-26
+  s=6 score=7.73231 exp=1.07999e-34
+  s=7 score=54.1743 exp=1.59564e-14
+  out_v[0]=-0.0774416
+  out_v[1]=-4.94937
+  out_v[2]=4.83151
+  out_v[3]=3.02186
+  out_v[4]=-1.37129
+  out_v[5]=-5.79463
+  out_v[6]=5.17008
+  out_v[7]=5.10863
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8007 exp=7.00649e-45
+  s=1 score=24.688 exp=2.4957e-27
+  s=2 score=-21.7562 exp=0
+  s=3 score=4.69003 exp=5.15432e-36
+  s=4 score=69.6664 exp=8.53195e-08
+  s=5 score=28.2722 exp=8.99009e-26
+  s=6 score=7.73231 exp=1.07999e-34
+  s=7 score=54.1743 exp=1.59564e-14
+  out_v[0]=-0.0774416
+  out_v[1]=-4.94937
+  out_v[2]=4.83151
+  out_v[3]=3.02186
+  out_v[4]=-1.37129
+  out_v[5]=-5.79463
+  out_v[6]=5.17008
+  out_v[7]=5.10863
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8007 exp=7.00649e-45
+  s=1 score=24.688 exp=2.4957e-27
+  s=2 score=-21.7562 exp=0
+  s=3 score=4.69003 exp=5.15432e-36
+  s=4 score=69.6664 exp=8.53195e-08
+  s=5 score=28.2722 exp=8.99009e-26
+  s=6 score=7.73231 exp=1.07999e-34
+  s=7 score=54.1743 exp=1.59564e-14
+  out_v[0]=-0.0774416
+  out_v[1]=-4.94937
+  out_v[2]=4.83151
+  out_v[3]=3.02186
+  out_v[4]=-1.37129
+  out_v[5]=-5.79463
+  out_v[6]=5.17008
+  out_v[7]=5.10863
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8007 exp=7.00649e-45
+  s=1 score=24.688 exp=2.4957e-27
+  s=2 score=-21.7562 exp=0
+  s=3 score=4.69003 exp=5.15432e-36
+  s=4 score=69.6664 exp=8.53195e-08
+  s=5 score=28.2722 exp=8.99009e-26
+  s=6 score=7.73231 exp=1.07999e-34
+  s=7 score=54.1743 exp=1.59564e-14
+  out_v[0]=-0.0774416
+  out_v[1]=-4.94937
+  out_v[2]=4.83151
+  out_v[3]=3.02186
+  out_v[4]=-1.37129
+  out_v[5]=-5.79463
+  out_v[6]=5.17008
+  out_v[7]=5.10863
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8007 exp=7.00649e-45
+  s=1 score=24.688 exp=2.4957e-27
+  s=2 score=-21.7562 exp=0
+  s=3 score=4.69003 exp=5.15432e-36
+  s=4 score=69.6664 exp=8.53195e-08
+  s=5 score=28.2722 exp=8.99009e-26
+  s=6 score=7.73231 exp=1.07999e-34
+  s=7 score=54.1743 exp=1.59564e-14
+  out_v[0]=-0.0774416
+  out_v[1]=-4.94937
+  out_v[2]=4.83151
+  out_v[3]=3.02186
+  out_v[4]=-1.37129
+  out_v[5]=-5.79463
+  out_v[6]=5.17008
+  out_v[7]=5.10863
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8007 exp=7.00649e-45
+  s=1 score=24.688 exp=2.4957e-27
+  s=2 score=-21.7562 exp=0
+  s=3 score=4.69003 exp=5.15432e-36
+  s=4 score=69.6664 exp=8.53195e-08
+  s=5 score=28.2722 exp=8.99009e-26
+  s=6 score=7.73231 exp=1.07999e-34
+  s=7 score=54.1743 exp=1.59564e-14
+  out_v[0]=-0.0774416
+  out_v[1]=-4.94937
+  out_v[2]=4.83151
+  out_v[3]=3.02186
+  out_v[4]=-1.37129
+  out_v[5]=-5.79463
+  out_v[6]=5.17008
+  out_v[7]=5.10863
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8007 exp=7.00649e-45
+  s=1 score=24.688 exp=2.4957e-27
+  s=2 score=-21.7562 exp=0
+  s=3 score=4.69003 exp=5.15432e-36
+  s=4 score=69.6664 exp=8.53195e-08
+  s=5 score=28.2722 exp=8.99009e-26
+  s=6 score=7.73231 exp=1.07999e-34
+  s=7 score=54.1743 exp=1.59564e-14
+  out_v[0]=-0.0774416
+  out_v[1]=-4.94937
+  out_v[2]=4.83151
+  out_v[3]=3.02186
+  out_v[4]=-1.37129
+  out_v[5]=-5.79463
+  out_v[6]=5.17008
+  out_v[7]=5.10863
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8007 exp=7.00649e-45
+  s=1 score=24.688 exp=2.4957e-27
+  s=2 score=-21.7562 exp=0
+  s=3 score=4.69003 exp=5.15432e-36
+  s=4 score=69.6664 exp=8.53195e-08
+  s=5 score=28.2722 exp=8.99009e-26
+  s=6 score=7.73231 exp=1.07999e-34
+  s=7 score=54.1743 exp=1.59564e-14
+  out_v[0]=-0.0774416
+  out_v[1]=-4.94937
+  out_v[2]=4.83151
+  out_v[3]=3.02186
+  out_v[4]=-1.37129
+  out_v[5]=-5.79463
+  out_v[6]=5.17008
+  out_v[7]=5.10863
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8007 exp=7.00649e-45
+  s=1 score=24.688 exp=2.4957e-27
+  s=2 score=-21.7562 exp=0
+  s=3 score=4.69003 exp=5.15432e-36
+  s=4 score=69.6664 exp=8.53195e-08
+  s=5 score=28.2722 exp=8.99009e-26
+  s=6 score=7.73231 exp=1.07999e-34
+  s=7 score=54.1743 exp=1.59564e-14
+  out_v[0]=-0.0774416
+  out_v[1]=-4.94937
+  out_v[2]=4.83151
+  out_v[3]=3.02186
+  out_v[4]=-1.37129
+  out_v[5]=-5.79463
+  out_v[6]=5.17008
+  out_v[7]=5.10863
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8007 exp=7.00649e-45
+  s=1 score=24.688 exp=2.4957e-27
+  s=2 score=-21.7562 exp=0
+  s=3 score=4.69003 exp=5.15432e-36
+  s=4 score=69.6664 exp=8.53195e-08
+  s=5 score=28.2722 exp=8.99009e-26
+  s=6 score=7.73231 exp=1.07999e-34
+  s=7 score=54.1743 exp=1.59564e-14
+  out_v[0]=-0.0774416
+  out_v[1]=-4.94937
+  out_v[2]=4.83151
+  out_v[3]=3.02186
+  out_v[4]=-1.37129
+  out_v[5]=-5.79463
+  out_v[6]=5.17008
+  out_v[7]=5.10863
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8007 exp=7.00649e-45
+  s=1 score=24.688 exp=2.4957e-27
+  s=2 score=-21.7562 exp=0
+  s=3 score=4.69003 exp=5.15432e-36
+  s=4 score=69.6664 exp=8.53195e-08
+  s=5 score=28.2722 exp=8.99009e-26
+  s=6 score=7.73231 exp=1.07999e-34
+  s=7 score=54.1743 exp=1.59564e-14
+  out_v[0]=-0.0774416
+  out_v[1]=-4.94937
+  out_v[2]=4.83151
+  out_v[3]=3.02186
+  out_v[4]=-1.37129
+  out_v[5]=-5.79463
+  out_v[6]=5.17008
+  out_v[7]=5.10863
+Test Case #13 (Attention)
+Data Type:      float
+Warm-up Iters:  1
+Profile Iters:  10
+Avg Time:       11880.568641 ms
+Max Diff:       0.0000134
+Max Tolerance:  0.0000036
+Verification:   Failed
+============================================================
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8023 exp=7.00649e-45
+  s=1 score=24.6776 exp=2.46346e-27
+  s=2 score=-21.7798 exp=0
+  s=3 score=4.68216 exp=5.10073e-36
+  s=4 score=69.6837 exp=8.65831e-08
+  s=5 score=28.2747 exp=8.98948e-26
+  s=6 score=7.75407 exp=1.10089e-34
+  s=7 score=54.1971 exp=1.62817e-14
+  out_v[0]=-0.0774493
+  out_v[1]=-4.94921
+  out_v[2]=4.83203
+  out_v[3]=3.02148
+  out_v[4]=-1.37109
+  out_v[5]=-5.79297
+  out_v[6]=5.17188
+  out_v[7]=5.10936
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8023 exp=7.00649e-45
+  s=1 score=24.6776 exp=2.46346e-27
+  s=2 score=-21.7798 exp=0
+  s=3 score=4.68216 exp=5.10073e-36
+  s=4 score=69.6837 exp=8.65831e-08
+  s=5 score=28.2747 exp=8.98948e-26
+  s=6 score=7.75407 exp=1.10089e-34
+  s=7 score=54.1971 exp=1.62817e-14
+  out_v[0]=-0.0774493
+  out_v[1]=-4.94921
+  out_v[2]=4.83203
+  out_v[3]=3.02148
+  out_v[4]=-1.37109
+  out_v[5]=-5.79297
+  out_v[6]=5.17188
+  out_v[7]=5.10936
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8023 exp=7.00649e-45
+  s=1 score=24.6776 exp=2.46346e-27
+  s=2 score=-21.7798 exp=0
+  s=3 score=4.68216 exp=5.10073e-36
+  s=4 score=69.6837 exp=8.65831e-08
+  s=5 score=28.2747 exp=8.98948e-26
+  s=6 score=7.75407 exp=1.10089e-34
+  s=7 score=54.1971 exp=1.62817e-14
+  out_v[0]=-0.0774493
+  out_v[1]=-4.94921
+  out_v[2]=4.83203
+  out_v[3]=3.02148
+  out_v[4]=-1.37109
+  out_v[5]=-5.79297
+  out_v[6]=5.17188
+  out_v[7]=5.10936
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8023 exp=7.00649e-45
+  s=1 score=24.6776 exp=2.46346e-27
+  s=2 score=-21.7798 exp=0
+  s=3 score=4.68216 exp=5.10073e-36
+  s=4 score=69.6837 exp=8.65831e-08
+  s=5 score=28.2747 exp=8.98948e-26
+  s=6 score=7.75407 exp=1.10089e-34
+  s=7 score=54.1971 exp=1.62817e-14
+  out_v[0]=-0.0774493
+  out_v[1]=-4.94921
+  out_v[2]=4.83203
+  out_v[3]=3.02148
+  out_v[4]=-1.37109
+  out_v[5]=-5.79297
+  out_v[6]=5.17188
+  out_v[7]=5.10936
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8023 exp=7.00649e-45
+  s=1 score=24.6776 exp=2.46346e-27
+  s=2 score=-21.7798 exp=0
+  s=3 score=4.68216 exp=5.10073e-36
+  s=4 score=69.6837 exp=8.65831e-08
+  s=5 score=28.2747 exp=8.98948e-26
+  s=6 score=7.75407 exp=1.10089e-34
+  s=7 score=54.1971 exp=1.62817e-14
+  out_v[0]=-0.0774493
+  out_v[1]=-4.94921
+  out_v[2]=4.83203
+  out_v[3]=3.02148
+  out_v[4]=-1.37109
+  out_v[5]=-5.79297
+  out_v[6]=5.17188
+  out_v[7]=5.10936
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8023 exp=7.00649e-45
+  s=1 score=24.6776 exp=2.46346e-27
+  s=2 score=-21.7798 exp=0
+  s=3 score=4.68216 exp=5.10073e-36
+  s=4 score=69.6837 exp=8.65831e-08
+  s=5 score=28.2747 exp=8.98948e-26
+  s=6 score=7.75407 exp=1.10089e-34
+  s=7 score=54.1971 exp=1.62817e-14
+  out_v[0]=-0.0774493
+  out_v[1]=-4.94921
+  out_v[2]=4.83203
+  out_v[3]=3.02148
+  out_v[4]=-1.37109
+  out_v[5]=-5.79297
+  out_v[6]=5.17188
+  out_v[7]=5.10936
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8023 exp=7.00649e-45
+  s=1 score=24.6776 exp=2.46346e-27
+  s=2 score=-21.7798 exp=0
+  s=3 score=4.68216 exp=5.10073e-36
+  s=4 score=69.6837 exp=8.65831e-08
+  s=5 score=28.2747 exp=8.98948e-26
+  s=6 score=7.75407 exp=1.10089e-34
+  s=7 score=54.1971 exp=1.62817e-14
+  out_v[0]=-0.0774493
+  out_v[1]=-4.94921
+  out_v[2]=4.83203
+  out_v[3]=3.02148
+  out_v[4]=-1.37109
+  out_v[5]=-5.79297
+  out_v[6]=5.17188
+  out_v[7]=5.10936
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8023 exp=7.00649e-45
+  s=1 score=24.6776 exp=2.46346e-27
+  s=2 score=-21.7798 exp=0
+  s=3 score=4.68216 exp=5.10073e-36
+  s=4 score=69.6837 exp=8.65831e-08
+  s=5 score=28.2747 exp=8.98948e-26
+  s=6 score=7.75407 exp=1.10089e-34
+  s=7 score=54.1971 exp=1.62817e-14
+  out_v[0]=-0.0774493
+  out_v[1]=-4.94921
+  out_v[2]=4.83203
+  out_v[3]=3.02148
+  out_v[4]=-1.37109
+  out_v[5]=-5.79297
+  out_v[6]=5.17188
+  out_v[7]=5.10936
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8023 exp=7.00649e-45
+  s=1 score=24.6776 exp=2.46346e-27
+  s=2 score=-21.7798 exp=0
+  s=3 score=4.68216 exp=5.10073e-36
+  s=4 score=69.6837 exp=8.65831e-08
+  s=5 score=28.2747 exp=8.98948e-26
+  s=6 score=7.75407 exp=1.10089e-34
+  s=7 score=54.1971 exp=1.62817e-14
+  out_v[0]=-0.0774493
+  out_v[1]=-4.94921
+  out_v[2]=4.83203
+  out_v[3]=3.02148
+  out_v[4]=-1.37109
+  out_v[5]=-5.79297
+  out_v[6]=5.17188
+  out_v[7]=5.10936
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8023 exp=7.00649e-45
+  s=1 score=24.6776 exp=2.46346e-27
+  s=2 score=-21.7798 exp=0
+  s=3 score=4.68216 exp=5.10073e-36
+  s=4 score=69.6837 exp=8.65831e-08
+  s=5 score=28.2747 exp=8.98948e-26
+  s=6 score=7.75407 exp=1.10089e-34
+  s=7 score=54.1971 exp=1.62817e-14
+  out_v[0]=-0.0774493
+  out_v[1]=-4.94921
+  out_v[2]=4.83203
+  out_v[3]=3.02148
+  out_v[4]=-1.37109
+  out_v[5]=-5.79297
+  out_v[6]=5.17188
+  out_v[7]=5.10936
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=-15.8023 exp=7.00649e-45
+  s=1 score=24.6776 exp=2.46346e-27
+  s=2 score=-21.7798 exp=0
+  s=3 score=4.68216 exp=5.10073e-36
+  s=4 score=69.6837 exp=8.65831e-08
+  s=5 score=28.2747 exp=8.98948e-26
+  s=6 score=7.75407 exp=1.10089e-34
+  s=7 score=54.1971 exp=1.62817e-14
+  out_v[0]=-0.0774493
+  out_v[1]=-4.94921
+  out_v[2]=4.83203
+  out_v[3]=3.02148
+  out_v[4]=-1.37109
+  out_v[5]=-5.79297
+  out_v[6]=5.17188
+  out_v[7]=5.10936
+Test Case #13 (Attention)
+Data Type:      half
+Warm-up Iters:  1
+Profile Iters:  10
+Avg Time:       16802.701159 ms
+Max Diff:       0.0078125
+Max Tolerance:  0.0469141
+Verification:   Passed
+============================================================
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=30.2298 exp=1
+  s=1 score=-inf exp=0
+  s=2 score=-inf exp=0
+  s=3 score=-inf exp=0
+  s=4 score=-inf exp=0
+  s=5 score=-inf exp=0
+  s=6 score=-inf exp=0
+  s=7 score=-inf exp=0
+  out_v[0]=-1.86109
+  out_v[1]=-6.22945
+  out_v[2]=5.51192
+  out_v[3]=-2.54946
+  out_v[4]=6.62032
+  out_v[5]=-7.51136
+  out_v[6]=1.04019
+  out_v[7]=-2.1813
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=30.2298 exp=1
+  s=1 score=-inf exp=0
+  s=2 score=-inf exp=0
+  s=3 score=-inf exp=0
+  s=4 score=-inf exp=0
+  s=5 score=-inf exp=0
+  s=6 score=-inf exp=0
+  s=7 score=-inf exp=0
+  out_v[0]=-1.86109
+  out_v[1]=-6.22945
+  out_v[2]=5.51192
+  out_v[3]=-2.54946
+  out_v[4]=6.62032
+  out_v[5]=-7.51136
+  out_v[6]=1.04019
+  out_v[7]=-2.1813
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=30.2298 exp=1
+  s=1 score=-inf exp=0
+  s=2 score=-inf exp=0
+  s=3 score=-inf exp=0
+  s=4 score=-inf exp=0
+  s=5 score=-inf exp=0
+  s=6 score=-inf exp=0
+  s=7 score=-inf exp=0
+  out_v[0]=-1.86109
+  out_v[1]=-6.22945
+  out_v[2]=5.51192
+  out_v[3]=-2.54946
+  out_v[4]=6.62032
+  out_v[5]=-7.51136
+  out_v[6]=1.04019
+  out_v[7]=-2.1813
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=30.2298 exp=1
+  s=1 score=-inf exp=0
+  s=2 score=-inf exp=0
+  s=3 score=-inf exp=0
+  s=4 score=-inf exp=0
+  s=5 score=-inf exp=0
+  s=6 score=-inf exp=0
+  s=7 score=-inf exp=0
+  out_v[0]=-1.86109
+  out_v[1]=-6.22945
+  out_v[2]=5.51192
+  out_v[3]=-2.54946
+  out_v[4]=6.62032
+  out_v[5]=-7.51136
+  out_v[6]=1.04019
+  out_v[7]=-2.1813
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=30.2298 exp=1
+  s=1 score=-inf exp=0
+  s=2 score=-inf exp=0
+  s=3 score=-inf exp=0
+  s=4 score=-inf exp=0
+  s=5 score=-inf exp=0
+  s=6 score=-inf exp=0
+  s=7 score=-inf exp=0
+  out_v[0]=-1.86109
+  out_v[1]=-6.22945
+  out_v[2]=5.51192
+  out_v[3]=-2.54946
+  out_v[4]=6.62032
+  out_v[5]=-7.51136
+  out_v[6]=1.04019
+  out_v[7]=-2.1813
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=30.2298 exp=1
+  s=1 score=-inf exp=0
+  s=2 score=-inf exp=0
+  s=3 score=-inf exp=0
+  s=4 score=-inf exp=0
+  s=5 score=-inf exp=0
+  s=6 score=-inf exp=0
+  s=7 score=-inf exp=0
+  out_v[0]=-1.86109
+  out_v[1]=-6.22945
+  out_v[2]=5.51192
+  out_v[3]=-2.54946
+  out_v[4]=6.62032
+  out_v[5]=-7.51136
+  out_v[6]=1.04019
+  out_v[7]=-2.1813
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=30.2298 exp=1
+  s=1 score=-inf exp=0
+  s=2 score=-inf exp=0
+  s=3 score=-inf exp=0
+  s=4 score=-inf exp=0
+  s=5 score=-inf exp=0
+  s=6 score=-inf exp=0
+  s=7 score=-inf exp=0
+  out_v[0]=-1.86109
+  out_v[1]=-6.22945
+  out_v[2]=5.51192
+  out_v[3]=-2.54946
+  out_v[4]=6.62032
+  out_v[5]=-7.51136
+  out_v[6]=1.04019
+  out_v[7]=-2.1813
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=30.2298 exp=1
+  s=1 score=-inf exp=0
+  s=2 score=-inf exp=0
+  s=3 score=-inf exp=0
+  s=4 score=-inf exp=0
+  s=5 score=-inf exp=0
+  s=6 score=-inf exp=0
+  s=7 score=-inf exp=0
+  out_v[0]=-1.86109
+  out_v[1]=-6.22945
+  out_v[2]=5.51192
+  out_v[3]=-2.54946
+  out_v[4]=6.62032
+  out_v[5]=-7.51136
+  out_v[6]=1.04019
+  out_v[7]=-2.1813
+[flashAttention-VERBOSE] shape b=0 t=0 qh=0 (show first 8 scores/exps)
+  s=0 score=30.2298 exp=1
+  s=1 score=-inf exp=0
+  s=2 score=-inf exp=0
+  s=3 score=-inf exp=0
+  s=4 score=-inf exp=0
+  s=5 score=-inf exp=0
+  s=6 score=-inf exp=0
+  s=7 score=-inf exp=0
+  out_v[0]=-1.86109
+  out_v[1]=-6.22945
+  out_v[2]=5.51192
+  out_v[3]=-2.54946
+  out_v[4]=6.62032
+  out_v[5]=-7.51136
+  out_v[6]=1.04019
+  out_v[7]=-2.1813
+^Cmake: *** [Makefile:81: run] Interrupt
